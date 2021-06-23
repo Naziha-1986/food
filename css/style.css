@@ -1,0 +1,12 @@
+.title{
+    text-align: center;
+    size: 44px ;
+}
+#sec1{
+    display: flexbox;
+    padding: 5px;
+   
+    
+    width: 13%;
+    
+}

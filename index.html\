@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/rest.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>My Food</h1>
+    </header>
+    <main>
+        <section id="sec1" >
+            <div>
+                <img src="https://www.w3schools.com/w3images/sandwich.jpg">
+                <p class="title">The Perfect Sandwich, A Real NYC Classic</p>
+                <p calss="subtitle">Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+            </div>
+            <div>
+                <img src="https://www.w3schools.com/w3images/steak.jpg" alt="">
+                <p class="title">Let Me Tell You About This Steak</p>
+                <p calss="subtitle">Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum
+                </p>
+
+            </div>
+
+            <div>
+                <img src="https://www.w3schools.com/w3images/cherries.jpg" alt="">
+                <p class="title">Cherries, interrupted</p>
+                <p calss="subtitle">Lorem ipsum text praesent tincidunt ipsum lipsum.
+
+                    What else?</p>
+            </div>
+            <div>
+                <img src="https://www.w3schools.com/w3images/wine.jpg" alt="">
+                <p class="title">Once Again, Robust Wine and Vegetable Pasta</p>
+                <p calss="subtitle">Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+            </div>
+        </section>
+        <section id="sec2">
+            <div>
+                <img scr="https://www.w3schools.com/w3images/popsicle.jpg">
+                <p class="title"> All I Need Is a Popsicle</p>
+                <p calss="subtitle">Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+            </div>
+            <div>
+                <img src="https://www.w3schools.com/w3images/salmon.jpg" alt="">
+                <p class="title">Salmon For Your Skin</p>
+                <p calss="subtitle">Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.
+                </p>
+
+            </div>
+            <div>
+                <img src="https://www.w3schools.com/w3images/sandwich.jpg" alt="">
+                <p class="title">The Perfect Sandwich, A Real Classic</p>
+                <p calss="subtitle">Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+            </div>
+            <div>
+                <img src="https://www.w3schools.com/w3images/croissant.jpg" alt="">
+                <p class="title">Le French</p>
+                <p calss="subtitle">Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
