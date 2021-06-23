@@ -15,7 +15,7 @@
         <h1>My Food</h1>
     </header>
     <main>
-        <section id="sec1" >
+        <section id="sec1">
             <div>
                 <img src="https://www.w3schools.com/w3images/sandwich.jpg">
                 <p class="title">The Perfect Sandwich, A Real NYC Classic</p>
@@ -24,7 +24,8 @@
             <div>
                 <img src="https://www.w3schools.com/w3images/steak.jpg" alt="">
                 <p class="title">Let Me Tell You About This Steak</p>
-                <p calss="subtitle">Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum
+                <p calss="subtitle">Once again, some random text to lorem lorem lorem lorem ipsum text praesent
+                    tincidunt ipsum lipsum
                 </p>
 
             </div>
@@ -51,7 +52,8 @@
             <div>
                 <img src="https://www.w3schools.com/w3images/salmon.jpg" alt="">
                 <p class="title">Salmon For Your Skin</p>
-                <p calss="subtitle">Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.
+                <p calss="subtitle">Once again, some random text to lorem lorem lorem lorem ipsum text praesent
+                    tincidunt ipsum lipsum.
                 </p>
 
             </div>

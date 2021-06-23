@@ -1,12 +1,29 @@
+
+h1{
+    text-align: center;
+    size: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
 .title{
     text-align: center;
     size: 44px ;
+    font-family: Arial, Helvetica, sans-serif;
 }
-#sec1{
+
+div{
+    float: left;
+    display: inline-block;
+    width: 250px;
+}
+/* #sec1{
     display: flexbox;
     padding: 5px;
-   
+   display: flex;
+   width: 100px;
+
     
     width: 13%;
     
-}
+} */
